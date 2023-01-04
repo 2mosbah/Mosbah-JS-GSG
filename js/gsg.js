@@ -36,6 +36,7 @@ function clearTags() {
     }
 }
 
+
 function getRandomColor() {
     var RandomR = Math.floor(Math.random() * 255);
     var RandomG = Math.floor(Math.random() * (255 - 150)) + 150;
